@@ -16,3 +16,9 @@ Policy gradient approach to ViZDoom @ CIG 2016 with theano&lasagne. Deep Attenti
 
 5 https://github.com/bounty030/tf_ViZDoom  
 Tensorflow implementation of DQN in ViZDoom.
+
+6 https://github.com/SvensBigData/DeepDoomLearning  
+An implementation of Deep Reinforcement Learning with tensorflow.
+
+7 https://github.com/falcondai/cig-doom-agent  
+Submission for CIG 2016 Doom competition with tensorflow.
