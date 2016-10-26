@@ -101,8 +101,10 @@ A deep Q learning demonstration using Google Tensorflow.
 
 ###  Other Games with DRL
 1 https://github.com/aleju/mario-ai  **  
-https://github.com/ehrenbrav/DeepQNetwork  ****
-Playing Mario with Deep Reinforcement Learning, using touch.
+Playing Mario with Deep Reinforcement Learning  
+
+https://github.com/ehrenbrav/DeepQNetwork  ****  
+A modification of Google's Deep Q-Network to learn to play Super Mario Bros. Blog.
 
 2 https://github.com/yanpanlau/DDPG-Keras-Torcs  ***  
 Using Keras and Deep Deterministic Policy Gradient to play TORCS.
