@@ -38,7 +38,23 @@ Run Keras models (tensorflow backend) in the browser, with GPU support.
 4 https://github.com/alrojo/tensorflow-tutorial ***  
 Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE.
 
+5 https://github.com/samjabrahams/tensorflow-white-paper-notes **  
+Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation.
 
+6 https://github.com/LeavesBreathe/tensorflow_with_latest_papers ***  
+Implementation of RNN and NLP Related Neural Network Papers.
+
+7 https://github.com/sjchoi86/Tensorflow-101 ***  
+Tensorflow Tutorials using Jupyter Notebook.
+
+8 https://github.com/fchollet/keras-resources *****  
+A directory of tutorials and open-source code repositories for working with Keras.
+
+9 https://github.com/tensorflow/models ***  
+Models built with TensorFlow
+
+10 https://github.com/VinF/deer ***  
+DeeR is a python library for Deep Reinforcement. 
 
 ### DRL Algorithms Implementation 
 1 https://github.com/hossam-mossalam/multi-objective-deep-rl   CV  **  
@@ -74,8 +90,18 @@ Policy-Network, Model-Network, Double-Dueling-DQN, Deep-Recurrent-Q-Network.(ipy
 10 https://github.com/cosmoharrigan/neuroevolution **  
 Neuroevolution as a direct policy search deep reinforcement learning method, implemented using Keras and DEAP.
 
+11 https://github.com/devsisters/DQN-tensorflow *****  
+Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning.
+
+12 https://github.com/ppwwyyxx/tensorpack ****  
+Neural Network Toolbox on TensorFlow. IncpetionV3 on ImageNet, ResNet for Cifar10 classification, Fully-convolutional Network for Holistically-Nested Edge Detection, Spatial Transformer Networks on MNIST addition, Double DQN plays Atari games, Asynchronous Advantage Actor-Critic(A3C) with demos on OpenAI Gym Atari games, char-rnn language model
+
+13 https://github.com/nivwusquorum/tensorflow-deepq ***  
+A deep Q learning demonstration using Google Tensorflow.
+
 ###  Other Games with DRL
-1 https://github.com/aleju/mario-ai  ****  
+1 https://github.com/aleju/mario-ai  **  
+https://github.com/ehrenbrav/DeepQNetwork  ****
 Playing Mario with Deep Reinforcement Learning, using touch.
 
 2 https://github.com/yanpanlau/DDPG-Keras-Torcs  ***  
@@ -86,6 +112,12 @@ Simple environment for creating very simple 2D games and training neural network
 
 4 https://github.com/junhyukoh/icml2016-minecraft ****  
 Implementation of "Control of Memory, Active Perception, and Action in Minecraft" with Torch.
+
+5 https://github.com/iassael/learning-to-communicate ***  
+Learning to Communicate with Deep Multi-Agent Reinforcement Learning. Torch.
+
+6 https://github.com/fomorians/td-gammon ***  
+Implementation of TD-Gammon in TensorFlow.
 
 ### Papers List
 1 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  ****  
@@ -110,11 +142,67 @@ Visualizing and Comparing Multiple OpenAI Gym Experiments. gym-multiplot
 3 https://github.com/dennybritz/deeplearning-papernotes ***  
 Summaries and notes on Deep Learning research papers. A good method worthing learning.
 
+4 https://github.com/leriomaggio/deep-learning-keras-tensorflow *****  
+Deep Learning with Keras and Tensorflow.
+
+5 https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey ***  
+Exploration on Deep Reinforcement Learning Survey.
+
+6 https://github.com/aikorea/awesome-rl ****  
+Awesome Reinforcement Learning.
+
+7 https://github.com/karpathy/paper-notes **  
+Random notes on papers, likely a short-term repo.
+
+8 https://github.com/terryum/awesome-deep-learning-papers *****  
+A curated list of the most cited deep learning papers (since 2010)
 
 ### Important Deep Learning Models
 1 https://github.com/zo7/deconvfaces ***  
 Generating faces with deconvolution networks. keras
 
-##　
+2 https://github.com/hardmaru/write-rnn-tensorflow ***  
+Generative Handwriting using LSTM Mixture Density Network with TensorFlow.
 
+3 https://github.com/RobRomijnders/RNN_basketball ***  
+LSTM + MDN for basketball trajectories. ACL2016, Tensorflow.
+
+4 https://github.com/fchollet/deep-learning-models *****  
+Keras code and weights files for popular deep learning models.
+
+### Tools
+1 https://github.com/facebookresearch/CommAI-env ***  
+CommAI-env is a platform for training and testing an AI system. Python
+
+2 https://github.com/ipod825/keraflow **  
+Reimplement the core of Keras.
+
+3 https://github.com/baidu/Paddle ***
+PaddlePaddle (PArallel Distributed Deep LEarning) Baidu.
+
+4 https://github.com/deeplearning4j/rl4j ***  
+Deep Reinforcement Learning for the JVM, includinig Doom.
+
+5 https://github.com/Microsoft/CNTK ***  
+Microsoft Cognition Toolkit (CNTK).
+
+### Board Games
+1 https://github.com/jmgilmer/GoCNN ***  
+Using CNN to do move prediction and board evaluation for the board game Go. Tensorflow.
+
+2 https://github.com/yao62995/Renju-AI ****  
+Renju game, replicate the paper of AlphaGo.
+
+3 https://github.com/erikbern/deep-pink **  
+Deep Pink is a chess AI that learns to play chess using deep learning.
+
+### Computer Science
+1 https://github.com/vhf/free-programming-books ****  
+Freely available programming books
+
+2 https://github.com/sjchoi86/dl_tutorials ***  
+Deep learning tutorials (2nd ed.) slides.
+
+3 https://github.com/openai/requests-for-research ****  
+A living collection of deep learning problems https://openai.com/requests-for-research.
 
