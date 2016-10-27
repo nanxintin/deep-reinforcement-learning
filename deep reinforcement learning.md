@@ -55,6 +55,42 @@ Deep Successor Reinforcement Learning (DSR). Torch.
 17 https://github.com/osh/kerlym *****  
 Keras Reinforcement Learning Gym agents.
 
+18 https://github.com/miyosuda/async_deep_reinforce ***  
+Asynchronous Methods for Deep Reinforcement Learning. Tensorflow.
+
+19 https://github.com/xbpeng/DeepTerrainRL ***  
+Source code for the paper: Terrain-Adaptive Locomotion Skills using Deep Reinforcement Learning. Caffe.
+
+20 https://github.com/Kaixhin/Atari *****  
+Persistent advantage learning dueling double DQN for the Arcade Learning Environment. Torch.
+
+21 https://github.com/XiaoxiaoGuo/atari_uct ***  
+Upper Confidence Tree Planner for ATARI games. Caffe.
+
+22 https://github.com/wulfebw/adversarial_rl ****  
+Can you actually train adversarial generative nets with policy gradient algorithms? + mlb summarization. GAN+RL.
+
+23 https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner *****  
+The original code from the DeepMind article + my tweaks.
+
+24 https://github.com/ilyasu123/rlntm ****  
+An implementation of the RL-NTM from "Reinforcement Learning Neural Turing Machines."
+
+25 https://github.com/NeuroCSUT/DeepMind-Atari-Deep-Q-Learner-2Player ***  
+Multiagent Cooperation and Competition with Deep Reinforcement Learning. Torch.
+
+26 https://github.com/5vision/DARQN ****  
+Deep Attention Recurrent Q-Network.Torch.
+
+27 https://github.com/tambetm/gymexperiments *****  
+Implementations of (NAF) for continuous actions spaces and dueling network architecture (DUEL) for discrete action spaces. Keras.
+
+28 https://github.com/tambetm/simple_dqn ***  
+Simple deep Q-learning agent. Neon.
+
+29 https://github.com/spragunr/deep_q_rl ****  
+Theano-based implementation of Deep Q-learning.
+
 ###  Some Games with DRL
 1 https://github.com/aleju/mario-ai  **  
 Playing Mario with Deep Reinforcement Learning  
@@ -82,6 +118,17 @@ Using Deep Q Networks to Learn Video Game Strategies.
 
 8 https://github.com/dandxy89/rf_helicopter  ***  
 Q-Learning and DQN Reinforcement Learning to play the Helicopter Game - Keras based!
+
+9 https://github.com/yenchenlin/DeepLearningFlappyBird ****  
+Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning). TensorFlow 0.7 pygame
+
+10 https://github.com/LARG/HFO ****  
+https://github.com/mhauskn/dqn-hfo  
+This is an continuous action deep reinforcement learning agent for the RoboCup 2D domain. 
+
+
+11 https://github.com/EloiZ/DeepCube **  
+Deep Q-learning for Rubik's cube. Theano.
 
 ### ViZDoom Code with DRL
 
@@ -122,6 +169,12 @@ DarkForest, the Facebook Go engine. Torch.
 5 https://github.com/kenjyoung/Neurohex ***  
 Neurohex uses Deep Q-learning with a convolutional neural network to learn to play the game of hex through self-play. theano and some lasagne.
 
+6 https://github.com/maxpumperla/betago ****  
+BetaGo: AlphaGo for the masses, live on github.
+
+7 https://github.com/Rochester-NRT/RocAlphaGo *****  
+This project is a student-led replication/reference implementation of AlphaGo.
+
 ### Papers List
 1 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  ****  
 Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
@@ -153,4 +206,10 @@ Awesome Reinforcement Learning.
 
 7 https://github.com/openai/gym *****  
 A toolkit for developing and comparing reinforcement learning algorithms.
+
+8 https://github.com/openai/rllab *****  
+rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym.
+
+9 https://github.com/karpathy/reinforcejs ****  
+Reinforcement Learning Agents in Javascript (Dynamic Programming, Temporal Difference, Deep Q-Learning, Stochastic/Deterministic Policy Gradients).
 
