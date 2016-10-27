@@ -151,6 +151,6 @@ Exploration on Deep Reinforcement Learning Survey.
 6 https://github.com/aikorea/awesome-rl ****  
 Awesome Reinforcement Learning.
 
-7 https://github.com/openai/gym *****
+7 https://github.com/openai/gym *****  
 A toolkit for developing and comparing reinforcement learning algorithms.
 
