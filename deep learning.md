@@ -113,6 +113,9 @@ Deep Learning with Keras and Tensorflow.
 5 https://github.com/wepe/MachineLearning ***  
 一些常见的机器学习算法的实现代码，学习过程中做的总结，资历尚浅，如有错误请不吝指出。
 
+6 https://github.com/imistyrain/OpenDL ***  
+开源的深度学习资料整理. Caffe.
+
 7 https://github.com/karpathy/paper-notes **  
 Random notes on papers, likely a short-term repo.
 
@@ -134,3 +137,21 @@ A living collection of deep learning problems https://openai.com/requests-for-re
 
 4 https://github.com/josephmisiti/awesome-machine-learning *****  
 A curated list of awesome Machine Learning frameworks, libraries and software.
+
+5 https://github.com/kjw0612/awesome-deep-vision ****  
+A curated list of deep learning resources for computer vision
+
+6 https://github.com/jtoy/awesome-tensorflow *****  
+TensorFlow - A curated list of dedicated resources http://tensorflow.org.
+
+7 https://github.com/ty4z2008/Qix ***  
+里面有很多干货,差不多每天都在更新。
+
+8 https://github.com/ujjwalkarn/Machine-Learning-Tutorials ***  
+machine learning and deep learning tutorials, articles and other resources.
+
+9 https://github.com/soumith/convnet-benchmarks ****  
+Easy benchmarking of all publicly accessible implementations of convnets.
+
+10 https://github.com/jatinshah/ufldl_tutorial ****  
+Stanford Unsupervised Feature Learning and Deep Learning Tutorial
