@@ -43,7 +43,7 @@ Neural Network Toolbox on TensorFlow. IncpetionV3 on ImageNet, ResNet for Cifar1
 13 https://github.com/nivwusquorum/tensorflow-deepq ***  
 A deep Q learning demonstration using Google Tensorflow.
 
-###  Other Games with DRL
+###  Some Games with DRL
 1 https://github.com/aleju/mario-ai  **  
 Playing Mario with Deep Reinforcement Learning  
 
@@ -87,3 +87,40 @@ An implementation of Deep Reinforcement Learning with tensorflow.
 
 7 https://github.com/falcondai/cig-doom-agent  **  
 Submission for CIG 2016 Doom competition with tensorflow.
+
+### Board Games
+1 https://github.com/jmgilmer/GoCNN ***  
+Using CNN to do move prediction and board evaluation for the board game Go. Tensorflow.
+
+2 https://github.com/yao62995/Renju-AI ****  
+Renju game, replicate the paper of AlphaGo.
+
+3 https://github.com/erikbern/deep-pink **  
+Deep Pink is a chess AI that learns to play chess using deep learning.
+
+### Papers List
+1 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  ****  
+Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
+2 https://github.com/muupan/deep-reinforcement-learning-papers *****  
+A list of papers and resources dedicated to deep reinforcement learning.Deep Value Function, Deep Policy, Deep Actor-Critic
+Deep Model, Application to Non-RL Tasks, Unclassified, Talks/Slides.
+
+3 https://github.com/junhyukoh/deep-reinforcement-learning-papers *****  
+A list of recent papers regarding deep reinforcement learning.Value, Policy, Discrete Control, Continuous Control, Text Domain
+Visual Domain, Robotics, Games, Monte-Carlo Tree Search ,Inverse Reinforcement Learning, Improving Exploration ,Multi-Task and Transfer Learning, Multi-Agent, Hierarchical Learning
+
+### Miscellaneous
+1 https://github.com/5vision/deep-reinforcement-learning-networks ***  
+A list of deep neural network architectures for reinforcement learning tasks.
+
+2 https://github.com/korymath/gym-multiplot ***  
+Visualizing and Comparing Multiple OpenAI Gym Experiments. gym-multiplot
+
+5 https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey ***  
+Exploration on Deep Reinforcement Learning Survey.
+
+6 https://github.com/aikorea/awesome-rl ****  
+Awesome Reinforcement Learning.
+
+
