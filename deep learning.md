@@ -33,37 +33,14 @@ Models built with TensorFlow
 10 https://github.com/VinF/deer ***  
 DeeR is a python library for Deep Reinforcement. 
 
-### Papers List
-1 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  ****  
-Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
-
-2 https://github.com/muupan/deep-reinforcement-learning-papers *****  
-A list of papers and resources dedicated to deep reinforcement learning.Deep Value Function, Deep Policy, Deep Actor-Critic
-Deep Model, Application to Non-RL Tasks, Unclassified, Talks/Slides.
-
-3 https://github.com/junhyukoh/deep-reinforcement-learning-papers *****  
-A list of recent papers regarding deep reinforcement learning.Value, Policy, Discrete Control, Continuous Control, Text Domain
-Visual Domain, Robotics, Games, Monte-Carlo Tree Search ,Inverse Reinforcement Learning, Improving Exploration ,Multi-Task and Transfer Learning, Multi-Agent, Hierarchical Learning
-  
   
 ###  Conclusion
-1 https://github.com/5vision/deep-reinforcement-learning-networks ***  
-A list of deep neural network architectures for reinforcement learning tasks.
-
-2 https://github.com/korymath/gym-multiplot ***  
-Visualizing and Comparing Multiple OpenAI Gym Experiments. gym-multiplot
 
 3 https://github.com/dennybritz/deeplearning-papernotes ***  
 Summaries and notes on Deep Learning research papers. A good method worthing learning.
 
 4 https://github.com/leriomaggio/deep-learning-keras-tensorflow *****  
 Deep Learning with Keras and Tensorflow.
-
-5 https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey ***  
-Exploration on Deep Reinforcement Learning Survey.
-
-6 https://github.com/aikorea/awesome-rl ****  
-Awesome Reinforcement Learning.
 
 7 https://github.com/karpathy/paper-notes **  
 Random notes on papers, likely a short-term repo.
@@ -100,15 +77,6 @@ Deep Reinforcement Learning for the JVM, includinig Doom.
 5 https://github.com/Microsoft/CNTK ***  
 Microsoft Cognition Toolkit (CNTK).
 
-### Board Games
-1 https://github.com/jmgilmer/GoCNN ***  
-Using CNN to do move prediction and board evaluation for the board game Go. Tensorflow.
-
-2 https://github.com/yao62995/Renju-AI ****  
-Renju game, replicate the paper of AlphaGo.
-
-3 https://github.com/erikbern/deep-pink **  
-Deep Pink is a chess AI that learns to play chess using deep learning.
 
 ### Computer Science
 1 https://github.com/vhf/free-programming-books ****  
