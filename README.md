@@ -1,61 +1,5 @@
 # Code-List
 
-### ViZDoom Code with DRL
-
-1 https://github.com/Marqt/ViZDoom  *****  
-ViZDoom homepage, simple DQN implementation in Python examples with theano&lasagne and tensorflow.
-
-2 https://github.com/ebonyclock/ai_vizdoom  ***  
-Double DQN with Duelling architecture learning in ViZDoom with Theano and Lasagne.
-
-3 https://github.com/itaicaspi/keras-dqn-doom  ****  
-Keras implementation of DQN, Double DQN, Inception Q estimation, Dueling Q estimation, Prioritized Experience Replay on ViZDoom environment. 
-
-4 https://github.com/5vision/ViZDoom_CIG2016_DARPN  ****  
-Policy gradient approach to ViZDoom @ CIG 2016 with theano&lasagne. Deep Attention Recurrent Policy Networ.
-
-5 https://github.com/bounty030/tf_ViZDoom  ***  
-Tensorflow implementation of DQN in ViZDoom.
-
-6 https://github.com/SvensBigData/DeepDoomLearning  **  
-An implementation of Deep Reinforcement Learning with tensorflow.
-
-7 https://github.com/falcondai/cig-doom-agent  **  
-Submission for CIG 2016 Doom competition with tensorflow.
-
-### Tensorflow and Other Framwork Tutorial
-
-1 https://github.com/CreatCodeBuild/TensorFlow-Chinese-Tutorial  **  
-Tensorflow Chinese Tutorial. 
-
-2 https://github.com/awjuliani/TF-Tutorials  ***  
-A collection of deep learning tutorials using Tensorflow and Python(ipynb), including DCGAN, InfoGAN, Deep Layer Visualization, 
-Deep Network Comparison, RNN-TF, t-SNE Tutorial.
-
-3 https://github.com/transcranial/keras-js   ***  
-Run Keras models (tensorflow backend) in the browser, with GPU support.
-
-4 https://github.com/alrojo/tensorflow-tutorial ***  
-Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE.
-
-5 https://github.com/samjabrahams/tensorflow-white-paper-notes **  
-Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation.
-
-6 https://github.com/LeavesBreathe/tensorflow_with_latest_papers ***  
-Implementation of RNN and NLP Related Neural Network Papers.
-
-7 https://github.com/sjchoi86/Tensorflow-101 ***  
-Tensorflow Tutorials using Jupyter Notebook.
-
-8 https://github.com/fchollet/keras-resources *****  
-A directory of tutorials and open-source code repositories for working with Keras.
-
-9 https://github.com/tensorflow/models ***  
-Models built with TensorFlow
-
-10 https://github.com/VinF/deer ***  
-DeeR is a python library for Deep Reinforcement. 
-
 ### DRL Algorithms Implementation 
 1 https://github.com/hossam-mossalam/multi-objective-deep-rl   CV  **  
 Multi-Objective Deep Reinforcement Learning, the 1st time that DRL has succeeded in learning multi-objective policies. WIP.
@@ -120,6 +64,62 @@ Learning to Communicate with Deep Multi-Agent Reinforcement Learning. Torch.
 
 6 https://github.com/fomorians/td-gammon ***  
 Implementation of TD-Gammon in TensorFlow.
+
+### ViZDoom Code with DRL
+
+1 https://github.com/Marqt/ViZDoom  *****  
+ViZDoom homepage, simple DQN implementation in Python examples with theano&lasagne and tensorflow.
+
+2 https://github.com/ebonyclock/ai_vizdoom  ***  
+Double DQN with Duelling architecture learning in ViZDoom with Theano and Lasagne.
+
+3 https://github.com/itaicaspi/keras-dqn-doom  ****  
+Keras implementation of DQN, Double DQN, Inception Q estimation, Dueling Q estimation, Prioritized Experience Replay on ViZDoom environment. 
+
+4 https://github.com/5vision/ViZDoom_CIG2016_DARPN  ****  
+Policy gradient approach to ViZDoom @ CIG 2016 with theano&lasagne. Deep Attention Recurrent Policy Networ.
+
+5 https://github.com/bounty030/tf_ViZDoom  ***  
+Tensorflow implementation of DQN in ViZDoom.
+
+6 https://github.com/SvensBigData/DeepDoomLearning  **  
+An implementation of Deep Reinforcement Learning with tensorflow.
+
+7 https://github.com/falcondai/cig-doom-agent  **  
+Submission for CIG 2016 Doom competition with tensorflow.
+
+### Tensorflow and Other Framwork Tutorial
+
+1 https://github.com/CreatCodeBuild/TensorFlow-Chinese-Tutorial  **  
+Tensorflow Chinese Tutorial. 
+
+2 https://github.com/awjuliani/TF-Tutorials  ***  
+A collection of deep learning tutorials using Tensorflow and Python(ipynb), including DCGAN, InfoGAN, Deep Layer Visualization, 
+Deep Network Comparison, RNN-TF, t-SNE Tutorial.
+
+3 https://github.com/transcranial/keras-js   ***  
+Run Keras models (tensorflow backend) in the browser, with GPU support.
+
+4 https://github.com/alrojo/tensorflow-tutorial ***  
+Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE.
+
+5 https://github.com/samjabrahams/tensorflow-white-paper-notes **  
+Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation.
+
+6 https://github.com/LeavesBreathe/tensorflow_with_latest_papers ***  
+Implementation of RNN and NLP Related Neural Network Papers.
+
+7 https://github.com/sjchoi86/Tensorflow-101 ***  
+Tensorflow Tutorials using Jupyter Notebook.
+
+8 https://github.com/fchollet/keras-resources *****  
+A directory of tutorials and open-source code repositories for working with Keras.
+
+9 https://github.com/tensorflow/models ***  
+Models built with TensorFlow
+
+10 https://github.com/VinF/deer ***  
+DeeR is a python library for Deep Reinforcement. 
 
 ### Papers List
 1 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  ****  
