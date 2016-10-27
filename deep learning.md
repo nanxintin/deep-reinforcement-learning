@@ -33,7 +33,20 @@ Models built with TensorFlow
 10 https://github.com/VinF/deer ***  
 DeeR is a python library for Deep Reinforcement. 
 
-  
+11 https://github.com/MorvanZhou/tutorials ***  
+莫烦 Python机器学习视频教程代码。
+
+12 https://github.com/pkmital/tensorflow_tutorials ****  
+From the basics to slightly more interesting applications of Tensorflow.
+
+13 https://github.com/nlintz/TensorFlow-Tutorials ****  
+Simple tutorials using Google's TensorFlow Framework. ipynb.
+
+14 https://github.com/ahangchen/GDLnotes ***  
+Google Deep Learning Notes（TensorFlow教程） Udacity.
+
+
+
 ###  Conclusion
 
 3 https://github.com/dennybritz/deeplearning-papernotes ***  
