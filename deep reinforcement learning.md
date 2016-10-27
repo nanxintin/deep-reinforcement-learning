@@ -43,6 +43,18 @@ Neural Network Toolbox on TensorFlow. IncpetionV3 on ImageNet, ResNet for Cifar1
 13 https://github.com/nivwusquorum/tensorflow-deepq ***  
 A deep Q learning demonstration using Google Tensorflow.
 
+14 https://github.com/coreylynch/async-rl *****  
+Tensorflow + Keras + OpenAI Gym implementation of 1-step Q Learning from "Asynchronous Methods for Deep Reinforcement Learning"
+
+15 https://github.com/hhexiy/opponent ***  
+Opponent Modeling in Deep Reinforcement Learning. Torch.
+
+16 https://github.com/Ardavans/DSR ****  
+Deep Successor Reinforcement Learning (DSR). Torch.
+
+17 https://github.com/osh/kerlym *****  
+Keras Reinforcement Learning Gym agents.
+
 ###  Some Games with DRL
 1 https://github.com/aleju/mario-ai  **  
 Playing Mario with Deep Reinforcement Learning  
@@ -64,6 +76,12 @@ Learning to Communicate with Deep Multi-Agent Reinforcement Learning. Torch.
 
 6 https://github.com/fomorians/td-gammon ***  
 Implementation of TD-Gammon in TensorFlow.
+
+7 https://github.com/asrivat1/DeepLearningVideoGames **  
+Using Deep Q Networks to Learn Video Game Strategies.
+
+8 https://github.com/dandxy89/rf_helicopter  ***  
+Q-Learning and DQN Reinforcement Learning to play the Helicopter Game - Keras based!
 
 ### ViZDoom Code with DRL
 
@@ -98,6 +116,12 @@ Renju game, replicate the paper of AlphaGo.
 3 https://github.com/erikbern/deep-pink **  
 Deep Pink is a chess AI that learns to play chess using deep learning.
 
+4 https://github.com/facebookresearch/darkforestGo ****  
+DarkForest, the Facebook Go engine. Torch.
+
+5 https://github.com/kenjyoung/Neurohex ***  
+Neurohex uses Deep Q-learning with a convolutional neural network to learn to play the game of hex through self-play. theano and some lasagne.
+
 ### Papers List
 1 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  ****  
 Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
@@ -117,10 +141,16 @@ A list of deep neural network architectures for reinforcement learning tasks.
 2 https://github.com/korymath/gym-multiplot ***  
 Visualizing and Comparing Multiple OpenAI Gym Experiments. gym-multiplot
 
+3 https://github.com/algorithmdog/Reinforcement_Learning_Blog ***  
+This code is written for the blogs: http://www.algorithmdog.com/ml/rl-series.
+
+
 5 https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey ***  
 Exploration on Deep Reinforcement Learning Survey.
 
 6 https://github.com/aikorea/awesome-rl ****  
 Awesome Reinforcement Learning.
 
+7 https://github.com/openai/gym *****
+A toolkit for developing and comparing reinforcement learning algorithms.
 
