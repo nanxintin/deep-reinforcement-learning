@@ -105,7 +105,7 @@ Continuous control with deep reinforcement learning - (DDPG) algorithm implement
 
 
 
-###  Some Games with DRL
+###  Games with DRL
 1 https://github.com/aleju/mario-ai  **  
 Playing Mario with Deep Reinforcement Learning  
 
