@@ -1,6 +1,6 @@
 # Deep Learning
 
-### Tutorials of Tensorflow and Other Framworks 
+### Tutorials of Tensorflow and Other Frameworks 
 
 1 https://github.com/CreatCodeBuild/TensorFlow-Chinese-Tutorial  **  
 Tensorflow Chinese Tutorial. 
