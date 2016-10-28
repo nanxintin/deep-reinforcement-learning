@@ -91,6 +91,20 @@ Simple deep Q-learning agent. Neon.
 29 https://github.com/spragunr/deep_q_rl ****  
 Theano-based implementation of Deep Q-learning.
 
+30 https://github.com/PoHsunSu/dprl ****  
+Deep reinforcement learning package for torch7. DQN Double DQN Bootstrapped DQN (broken) A3C
+
+31 https://github.com/yao62995/Deep_Reinforcement_Learning ****  
+Series Algorithms of Deep Reinforcement Learning, such as DQN, DDQN, one-step-DQN, DDPG, etc. Tensorflow.
+
+32 https://github.com/viswanathgs/dist-dqn ****  
+Multi-GPU reinforcement learning using Deep Q-Network in TensorFlow for OpenAI Gym.
+
+33 https://github.com/stevenpjg/ddpg-aigym ***  
+Continuous control with deep reinforcement learning - (DDPG) algorithm implemented in OpenAI Gym environments. TF.
+
+
+
 ###  Some Games with DRL
 1 https://github.com/aleju/mario-ai  **  
 Playing Mario with Deep Reinforcement Learning  
@@ -102,7 +116,7 @@ A modification of Google's Deep Q-Network to learn to play Super Mario Bros. Blo
 Using Keras and Deep Deterministic Policy Gradient to play TORCS.
 
 3 https://github.com/facebook/MazeBase ***  
-Simple environment for creating very simple 2D games and training neural network models to perform tasks within them. Facebook.
+Simple environment for creating very simple 2D games and training neural network models to perform tasks within them. Facebook. 
 
 4 https://github.com/junhyukoh/icml2016-minecraft ****  
 Implementation of "Control of Memory, Active Perception, and Action in Minecraft" with Torch.
@@ -126,9 +140,14 @@ Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning). TensorFlow
 https://github.com/mhauskn/dqn-hfo  
 This is an continuous action deep reinforcement learning agent for the RoboCup 2D domain. 
 
-
 11 https://github.com/EloiZ/DeepCube **  
 Deep Q-learning for Rubik's cube. Theano.
+
+12 https://github.com/dusty-nv/jetson-reinforcement *****  
+Deep reinforcement learning libraries for Jetson and online training. Torch.
+
+13 https://github.com/deependersingla/deep_trader ****  
+uses reinforcement learning on stock market and agent tries to learn trading.
 
 ### ViZDoom Code with DRL
 
@@ -213,3 +232,5 @@ rllab is a framework for developing and evaluating reinforcement learning algori
 9 https://github.com/karpathy/reinforcejs ****  
 Reinforcement Learning Agents in Javascript (Dynamic Programming, Temporal Difference, Deep Q-Learning, Stochastic/Deterministic Policy Gradients).
 
+10 https://github.com/yandexdataschool/AgentNet ****  
+Deep Reinforcement Learning library for humans. A lightweight library to build and train deep reinforcement learning and custom recurrent networks using Theano+Lasagne.
