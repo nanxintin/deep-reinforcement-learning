@@ -1,6 +1,6 @@
 # Deep Learning
 
-### Tutorials of Tensorflow and Other Frameworks 
+### Tutorials of Tensorflow 
 
 * https://github.com/CreatCodeBuild/TensorFlow-Chinese-Tutorial  **   
 Tensorflow Chinese Tutorial. 
@@ -9,29 +9,11 @@ Tensorflow Chinese Tutorial.
 A collection of deep learning tutorials using Tensorflow and Python(ipynb), including DCGAN, InfoGAN, Deep Layer Visualization, 
 Deep Network Comparison, RNN-TF, t-SNE Tutorial.
 
-* https://github.com/transcranial/keras-js   ***  
-Run Keras models (tensorflow backend) in the browser, with GPU support.
-
 * https://github.com/alrojo/tensorflow-tutorial ***  
 Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE.
 
-* https://github.com/samjabrahams/tensorflow-white-paper-notes **  
-Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation.
-
-* https://github.com/LeavesBreathe/tensorflow_with_latest_papers ***  
-Implementation of RNN and NLP Related Neural Network Papers.
-
 * https://github.com/sjchoi86/Tensorflow-101 ***  
 Tensorflow Tutorials using Jupyter Notebook.
-
-* https://github.com/fchollet/keras-resources *****  
-A directory of tutorials and open-source code repositories for working with Keras.
-
-* https://github.com/tensorflow/models ***  
-Models built with TensorFlow
-
-* https://github.com/VinF/deer ***  
-DeeR is a python library for Deep Reinforcement. 
 
 * https://github.com/MorvanZhou/tutorials ***  
 莫烦 Python机器学习视频教程代码。
@@ -45,14 +27,24 @@ Simple tutorials using Google's TensorFlow Framework. ipynb.
 * https://github.com/ahangchen/GDLnotes ***  
 Google Deep Learning Notes（TensorFlow教程） Udacity.
 
+* https://github.com/aymericdamien/TensorFlow-Examples *****  
+TensorFlow Tutorial and Examples for beginners.
+
 * https://github.com/tensorflow/skflow ***  
 Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning.
 
 * https://github.com/zsdonghao/tensorlayer ****  
 TensorLayer: A Deep Learning and Reinforcement Learning Library for TensorFlow.
 
-* https://github.com/aymericdamien/TensorFlow-Examples *****  
-TensorFlow Tutorial and Examples for beginners.
+* https://github.com/tensorflow/models ***  
+Models built with TensorFlow
+
+* https://github.com/jtoy/awesome-tensorflow *****  
+TensorFlow - A curated list of dedicated resources http://tensorflow.org.
+
+
+
+### Tutorials of Other Frameworks 
 
 * https://github.com/Lasagne/Lasagne ***  
 Lightweight library to build and train neural networks in Theano.
@@ -60,8 +52,25 @@ Lightweight library to build and train neural networks in Theano.
 * https://github.com/tflearn/tflearn ***  
 Deep learning library featuring a higher-level API for TensorFlow.
 
+* https://github.com/transcranial/keras-js   ***  
+Run Keras models (tensorflow backend) in the browser, with GPU support.
 
-### Important Deep Learning Models
+* https://github.com/fchollet/keras-resources *****  
+A directory of tutorials and open-source code repositories for working with Keras.
+
+* https://github.com/facebookresearch/CommAI-env ***  
+CommAI-env is a platform for training and testing an AI system. Python
+
+* https://github.com/ipod825/keraflow **  
+Reimplement the core of Keras.
+
+* https://github.com/baidu/Paddle ***
+PaddlePaddle (PArallel Distributed Deep LEarning) Baidu.
+
+* https://github.com/Microsoft/CNTK ***  
+Microsoft Cognition Toolkit (CNTK).
+
+### Deep Learning Models
 * https://github.com/zo7/deconvfaces ***  
 Generating faces with deconvolution networks. keras
 
@@ -74,35 +83,25 @@ LSTM + MDN for basketball trajectories. ACL2016, Tensorflow.
 * https://github.com/fchollet/deep-learning-models *****  
 Keras code and weights files for popular deep learning models.
 
+* https://github.com/fchollet/keras-blog ****  
+Blog with Keras news, tutorials, and demos.
+
 * https://github.com/songhan/SqueezeNet-Deep-Compression ***  
 SqueezeNet-Deep-Compression
 
 * https://github.com/karpathy/char-rnn ****  
 Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 
-### Tools
-* https://github.com/facebookresearch/CommAI-env ***  
-CommAI-env is a platform for training and testing an AI system. Python
+* https://github.com/samjabrahams/tensorflow-white-paper-notes **  
+Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation.
 
-* https://github.com/ipod825/keraflow **  
-Reimplement the core of Keras.
-
-* https://github.com/baidu/Paddle ***
-PaddlePaddle (PArallel Distributed Deep LEarning) Baidu.
-
-* https://github.com/deeplearning4j/rl4j ***  
-Deep Reinforcement Learning for the JVM, includinig Doom.
-
-* https://github.com/Microsoft/CNTK ***  
-Microsoft Cognition Toolkit (CNTK).
+* https://github.com/LeavesBreathe/tensorflow_with_latest_papers ***  
+Implementation of RNN and NLP Related Neural Network Papers.
 
 ###  Conclusion
 
 * https://github.com/ChristosChristofidis/awesome-deep-learning *****  
 A curated list of awesome Deep Learning tutorials, projects and communities.
-
-* https://github.com/fchollet/keras-blog ****  
-Blog with Keras news, tutorials, and demos.
 
 * https://github.com/dennybritz/deeplearning-papernotes ***  
 Summaries and notes on Deep Learning research papers. A good method worthing learning.
@@ -141,9 +140,6 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 * https://github.com/kjw0612/awesome-deep-vision ****  
 A curated list of deep learning resources for computer vision
 
-* https://github.com/jtoy/awesome-tensorflow *****  
-TensorFlow - A curated list of dedicated resources http://tensorflow.org.
-
 * https://github.com/ty4z2008/Qix ***  
 里面有很多干货,差不多每天都在更新。
 
@@ -155,3 +151,9 @@ Easy benchmarking of all publicly accessible implementations of convnets.
 
 * https://github.com/jatinshah/ufldl_tutorial ****  
 Stanford Unsupervised Feature Learning and Deep Learning Tutorial
+
+* https://github.com/VinF/deer ***  
+DeeR is a python library for Deep Reinforcement. 
+
+* https://github.com/deeplearning4j/rl4j ***  
+Deep Reinforcement Learning for the JVM, includinig Doom.
