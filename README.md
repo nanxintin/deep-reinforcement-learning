@@ -1,6 +1,6 @@
 # Code-List
 
-### A list of deep learning and reinforcement learning resource originated from github.
+### A list of deep learning and reinforcement learning resources originated from github.
 
 ### This list is currently work-in-progress and far from complete.
 
