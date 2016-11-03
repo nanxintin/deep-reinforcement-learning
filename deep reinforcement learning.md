@@ -122,6 +122,8 @@ A modification of Google's Deep Q-Network to learn to play Super Mario Bros. Blo
 
 * https://github.com/yenchenlin/DeepLearningFlappyBird ****  
 Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning). TensorFlow 0.7 pygame
+https://github.com/yanpanlau/Keras-FlappyBird  
+https://github.com/songrotek/DRL-FlappyBird
 
 * https://github.com/LARG/HFO ****  
 https://github.com/mhauskn/dqn-hfo  
