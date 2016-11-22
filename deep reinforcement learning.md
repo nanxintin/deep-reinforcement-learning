@@ -119,6 +119,14 @@ Implementation of A3C (Asynchronous Advantage Actor-Critic)
 * https://github.com/ppwwyyxx/tensorpack/tree/master/examples/OpenAIGym  
 A3C code and models for my Gym submissions on Atari games
 
+* https://github.com/osh/kerlym/tree/master/kerlym/a3c  
+kerlym/kerlym/a3c/
+
+* https://github.com/tambetm/gymexperiments/blob/master/a3c.py   
+
+* https://github.com/danijar/mindpark/blob/master/mindpark/algorithm/a3c.py  
+
+
 
 ###  Games with DRL
 
