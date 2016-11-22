@@ -54,9 +54,6 @@ Deep Reinforcement Learning for Keras,including DQN, Double DQN, DDPG, NAF, CEM,
 * https://github.com/danijar/mindpark  ****  
 Testbed for deep reinforcement learning algorithms with gym and tensorflow, including DQN, Double DQN, A3C, REINFORCE.
 
-* https://github.com/coreylynch/async-rl *****  
-Tensorflow + Keras + OpenAI Gym implementation of 1-step Q Learning from "Asynchronous Methods for Deep Reinforcement Learning"
-
 * https://github.com/wulfebw/adversarial_rl ****  
 Can you actually train adversarial generative nets with policy gradient algorithms? + mlb summarization. GAN+RL.
 
@@ -68,9 +65,6 @@ Simple deep Q-learning agent. Neon.
 
 * https://github.com/hhexiy/opponent ***  
 Opponent Modeling in Deep Reinforcement Learning. Torch.
-
-* https://github.com/miyosuda/async_deep_reinforce ***  
-Asynchronous Methods for Deep Reinforcement Learning. Tensorflow.
 
 * https://github.com/xbpeng/DeepTerrainRL ***  
 Source code for the paper: Terrain-Adaptive Locomotion Skills using Deep Reinforcement Learning. Caffe.
@@ -107,6 +101,23 @@ Multi-Objective Deep Reinforcement Learning, the 1st time that DRL has succeeded
 * https://github.com/clarkkev/deep-coref   NLP  **  
 Code for training and running the neural coreference models with Theano and keras.
 
+
+### Async-DRL
+
+* https://github.com/coreylynch/async-rl *****  
+Tensorflow + Keras + OpenAI Gym implementation of 1-step Q Learning from "Asynchronous Methods for Deep Reinforcement Learning"
+
+* https://github.com/miyosuda/async_deep_reinforce ***  
+Asynchronous Methods for Deep Reinforcement Learning. Tensorflow.
+
+* https://github.com/yao62995/A3C ****  
+Advantage async actor-critic Algorithms (A3C) and Progressive Neural Network implemented by tensorflow.
+
+* https://github.com/dennybritz/reinforcement-learning/tree/master/PolicyGradient/a3c  
+Implementation of A3C (Asynchronous Advantage Actor-Critic)
+
+* https://github.com/ppwwyyxx/tensorpack/tree/master/examples/OpenAIGym  
+A3C code and models for my Gym submissions on Atari games
 
 
 ###  Games with DRL
