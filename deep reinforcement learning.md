@@ -101,6 +101,14 @@ Multi-Objective Deep Reinforcement Learning, the 1st time that DRL has succeeded
 * https://github.com/clarkkev/deep-coref   NLP  **  
 Code for training and running the neural coreference models with Theano and keras.
 
+* https://github.com/imatge-upc/detection-2016-nipsws CV ***  
+Hierarchical Object Detection with Deep Reinforcement Learning
+
+* https://github.com/ShangtongZhang/reinforcement-learning-an-introduction ****  
+Python code for Reinforcement Learning: An Introduction
+
+
+
 
 ### Async-DRL
 
@@ -125,6 +133,12 @@ kerlym/kerlym/a3c/
 * https://github.com/tambetm/gymexperiments/blob/master/a3c.py   
 
 * https://github.com/danijar/mindpark/blob/master/mindpark/algorithm/a3c.py  
+
+* https://github.com/muupan/async-rl ****
+Replicating "Asynchronous Methods for Deep Reinforcement Learning"
+
+* https://github.com/traai/async-deep-rl ****  
+A Tensorflow based implementation of "Asynchronous Methods for Deep Reinforcement Learning
 
 
 
@@ -177,6 +191,19 @@ Deep Q-learning for Rubik's cube. Theano.
 * https://github.com/aleju/mario-ai  **  
 Playing Mario with Deep Reinforcement Learning  
 
+* https://github.com/ehrenbrav/DeepQNetwork ***
+A modification of Google's Deep Q-Network to learn to play Super Mario Bros.
+
+
+
+* https://github.com/tambetm/gym-minecraft   ****
+Minecraft environment for Open AI Gym, based on Microsoft's Malmo.
+
+* https://github.com/nadavbh12/Retro-Learning-Environment ***  
+The Retro Learning Environment (RLE) -- a learning framework for AI 
+
+
+
 
 ### ViZDoom with DRL
 
@@ -197,6 +224,9 @@ Tensorflow implementation of DQN in ViZDoom.
 
 * https://github.com/SvensBigData/DeepDoomLearning  **  
 An implementation of Deep Reinforcement Learning with tensorflow.
+
+* https://github.com/vlfeat/researchdoom ***  
+The ResearchDoom projects aims at extracting data and ground truth annotations from the Doom game for the purpose of training and evaluating computer vision algorithms.
 
 
 ### Board Games with DRL
@@ -271,3 +301,15 @@ DeeR is a python library for Deep Reinforcement.
 
 * https://github.com/deeplearning4j/rl4j ***  
 Deep Reinforcement Learning for the JVM, includinig Doom.
+
+
+* https://github.com/jacobgil/keras-dcgan ***
+Keras implementation of Deep Convolutional Generative Adversarial Networks
+
+*  https://github.com/LantaoYu/SeqGAN ***  
+Implementation of Sequence Generative Adversarial Nets with Policy Gradient
+
+* https://github.com/facebook/MemNN ***
+Memory Networks implementations。 matlab
+
+
