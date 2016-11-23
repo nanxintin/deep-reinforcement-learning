@@ -1,4 +1,5 @@
 
+## Deep Reinforcement Learning Tutorials
 
 * https://deepmind.com/blog/deep-reinforcement-learning/  
 Deep Reinforcement Learning Deepmind
@@ -6,20 +7,38 @@ Deep Reinforcement Learning Deepmind
 * http://lamda.nju.edu.cn/yangjw/project/drlintro.html   
 深度强化学习初探 杨敬文 lamda.nju
 
+
+* http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324914&idx=1&sn=0baaf404b3d8132243d08b55310de210&scene=1&srcid=0627kHzRZiEam9pRbmcPzdKi#wechat_redirect   
+深度强化学习导引 朱小虎 深度学习大讲堂
+
 * https://www.nervanasys.com/demystifying-deep-reinforcement-learning/?utm_content=buffer343f7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer   
 Demystifying Deep Reinforcement Learning  Tambet Matiisen, Nervana  
-
-* http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/#docs-internal-guid-8923c5db-b58b-5a41-e18f-ae2c059653d6  
-DEEP REINFORCEMENT LEARNING WITH NEON  Tambet Matiisen, Nervana
 
 * http://www.infoq.com/cn/articles/atari-reinforcement-learning  
 看DeepMind如何用Reinforcement learning玩游戏 尹绪森，Intel
 
+* http://www.wildml.com/2016/10/learning-reinforcement-learning/  
+LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS) 
+
+* https://tigerneil.wordpress.com/2016/05/03/deep-reinforcement-learning-from-openai/  
+Deep Reinforcement Learning from OpenAI 中文翻译版本
+
+* https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-2-Reinforcement-Learning  
+Deep Learning Research Review Week 2: Reinforcement Learning Adit Deshpande CS Undergrad at UCLA ('19)
+
+* https://kaixhin.github.io/deep-reinforcement-learning/#/  
+DEEP REINFORCEMENT LEARNING Slides ICL
+
+* https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.1rtsf524m  
+Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and Deep Recurrent Q-Networks 
+
+## Specific Notes of DRL 
+
+* http://neuro.cs.ut.ee/deep-reinforcement-learning-with-neon/#docs-internal-guid-8923c5db-b58b-5a41-e18f-ae2c059653d6  
+DEEP REINFORCEMENT LEARNING WITH NEON  Tambet Matiisen, Nervana
+
 * http://sodeepdude.blogspot.com.ee/2015/03/deepminds-atari-paper-replicated.html  
 DeepMind's Atari paper replicated    
-
-* http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324914&idx=1&sn=0baaf404b3d8132243d08b55310de210&scene=1&srcid=0627kHzRZiEam9pRbmcPzdKi#wechat_redirect   
-深度强化学习导引 朱小虎 深度学习大讲堂
 
 * https://www.allinea.com/blog/201607/tuning-deep-learning-episode-1-deepminds-a3c-torch   
 Deep Learning Episode 1: Optimizing DeepMind's A3C on Torch  Allinea
@@ -36,27 +55,14 @@ Reinforcement Learning and DQN, learning to play from pixels
 * http://venturebeat.com/2016/08/01/how-deep-reinforcement-learning-can-help-chatbots/  
 How deep reinforcement learning can help chatbots
 
-* http://www.wildml.com/2016/10/learning-reinforcement-learning/  
-LEARNING REINFORCEMENT LEARNING (WITH CODE, EXERCISES AND SOLUTIONS)  
-
 * https://www.quora.com/What-are-the-benefits-of-actor-critic-framework-in-reinforcement-learning  
 What are the benefits of actor/critic framework in reinforcement learning?  
-
-* https://tigerneil.wordpress.com/2016/05/03/deep-reinforcement-learning-from-openai/  
-Deep Reinforcement Learning from OpenAI 中文翻译版本
 
 * http://tigerneil.github.io/2016/05/30/nsfp/   
 不完全信息博弈中自我对弈的深度强化学习技术  
 
-* https://kaixhin.github.io/deep-reinforcement-learning/#/  
-DEEP REINFORCEMENT LEARNING Slides ICL
-
-* https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.1rtsf524m  
-Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and Deep Recurrent Q-Networks 
-
 * https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.muuansx6n  
 Deep Learning: The Unreasonable Effectiveness of Randomness
 
-* https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-2-Reinforcement-Learning  
-Deep Learning Research Review Week 2: Reinforcement Learning Adit Deshpande CS Undergrad at UCLA ('19)
+
 
