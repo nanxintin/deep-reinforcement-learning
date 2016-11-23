@@ -7,6 +7,8 @@ Deep Reinforcement Learning Deepmind
 * http://lamda.nju.edu.cn/yangjw/project/drlintro.html   
 深度强化学习初探 杨敬文 lamda.nju
 
+* http://rll.berkeley.edu/deeprlcourse/
+CS 294: Deep Reinforcement Learning, rll berkeley
 
 * http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324914&idx=1&sn=0baaf404b3d8132243d08b55310de210&scene=1&srcid=0627kHzRZiEam9pRbmcPzdKi#wechat_redirect   
 深度强化学习导引 朱小虎 深度学习大讲堂
@@ -31,6 +33,10 @@ DEEP REINFORCEMENT LEARNING Slides ICL
 
 * https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.1rtsf524m  
 Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and Deep Recurrent Q-Networks 
+
+* http://www.nextbigfuture.com/2014/12/deep-learning-and-deep-reinforcement.html  
+Deep Learning and Deep Reinforcement Learning Tutorials 
+
 
 ## Specific Notes of DRL 
 
@@ -63,6 +69,18 @@ What are the benefits of actor/critic framework in reinforcement learning?
 
 * https://medium.com/intuitionmachine/deep-learning-the-unreasonable-effectiveness-of-randomness-14d5aef13f87#.muuansx6n  
 Deep Learning: The Unreasonable Effectiveness of Randomness
+
+* http://www.cnblogs.com/wangxiaocvpr/p/5438514.html  
+论文笔记之：Active Object Localization with Deep Reinforcement Learning ICCV2015
+
+* https://imatge-upc.github.io/detection-2016-nipsws/  
+Hierarchical Object Detection with Deep Reinforcement Learning   NIPS 2016
+
+* http://www.cs.ubc.ca/~van/papers/2015-TOG-terrainRL/  
+Dynamic Terrain Traversal Skills Using Reinforcement Learning  SIGGRAPH 2015
+
+* http://www.gitxiv.com/posts/ZuSYfufoftfkY2zgP/reinforcement-learning-neural-turing-machines  
+Reinforcement Learning Neural Turing Machines   
 
 
 
