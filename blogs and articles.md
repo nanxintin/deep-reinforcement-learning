@@ -50,7 +50,7 @@ Deep Reinforcement Learning with a Natural Language Action Space ACL2016 Microso
 Deep Deterministic Policy Gradients in TensorFlow  
 
 * https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html  
-Reinforcement Learning and DQN, learning to play from pixels  
+Reinforcement Learning and DQN, learning to play from pixels  DL4J
 
 * http://venturebeat.com/2016/08/01/how-deep-reinforcement-learning-can-help-chatbots/  
 How deep reinforcement learning can help chatbots
