@@ -37,6 +37,11 @@ Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and 
 * http://www.nextbigfuture.com/2014/12/deep-learning-and-deep-reinforcement.html  
 Deep Learning and Deep Reinforcement Learning Tutorials 
 
+* https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/  
+Let’s make a DQN: Theory  Japan
+
+* http://karpathy.github.io/2016/05/31/rl/  
+Deep Reinforcement Learning: Pong from Pixels  
 
 ## Specific Notes of DRL 
 
