@@ -107,6 +107,39 @@ Implementation of RNN and NLP Related Neural Network Papers.
 Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation.
 
 
+### GAN
+
+* https://github.com/ofirnachum/sequence_gan *** 
+Tensorflow implementation of generative adversarial networks (GAN) applied to sequential data via recurrent neural networks (RNN).
+
+* https://github.com/buriburisuri/ac-gan  ***
+A tensorflow implementation of google's AC-GAN ( Auxiliary Classifier GAN ).
+
+* https://github.com/phreeza/keras-GAN  ***
+Generative Adversarial Networks with Keras
+
+* https://github.com/openai/InfoGAN  ****
+Code for reproducing key results in the paper InfoGAN:  
+
+* https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW  ****
+A collection of generative methods implemented with TensorFlow (Deep Convolutional Generative Adversarial Networks (DCGAN), Variational Autoencoder (VAE) and DRAW: A Recurrent Neural Network For Image Generation).
+
+* https://github.com/openai/improved-gan  ***
+Code for the paper "Improved Techniques for Training GANs"
+
+* https://github.com/junyanz/iGAN  ****
+iGAN: Interactive Image Generation via Generative Adversarial Networks  
+
+* https://github.com/Newmu/dcgan_code  ****
+Deep Convolutional Generative Adversarial Networks  
+
+* https://github.com/soumith/ganhacks  ****
+starter from "How to Train a GAN?" at NIPS2016  
+
+* https://github.com/AYLIEN/gan-intro   **
+This is the code that we used to generate our GAN 1D Gaussian approximation. 
+
+
 
 ###  Conclusion
 
