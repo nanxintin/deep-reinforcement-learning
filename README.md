@@ -1,4 +1,4 @@
-# Code-List
+# Deep Reinforcement Learning Research 
 
 ### A list of deep learning and reinforcement learning resources originated from github.
 
