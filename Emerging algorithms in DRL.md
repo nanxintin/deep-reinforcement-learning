@@ -57,7 +57,8 @@ ensorForce: A TensorFlow library for applied reinforcement learning
 An End-To-End, Lightweight and Flexible Platform for Game Research
 
 * https://github.com/rz4/DeepDoom-DE ***  
-Deep Reinforcement Learning Development Environment for Doom-Bots powered by ViZDoom 1.1.1 and Keras 2.0.
+Deep Reinforcement Learning Development Environment for Doom-Bots powered by ViZDoom 1.1.1 and Keras 2.0.  
+https://github.com/Atlas-Soft/DeepDoom   Navigating 3D Environments Visually Using Distilled Hierarchical Deep Q-Networks
 
 * https://github.com/awjuliani/oreilly-rl-tutorial ****  
 Contains Jupyter notebooks associated with the "Deep Reinforcement Learning Tutorial" tutorial given at the O'Reilly 2017 NYC AI Conference.
@@ -78,11 +79,33 @@ Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning
 OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 https://github.com/openai/baselines-results
 
+* https://github.com/deepsense-ai/BA3C-CPU  ****  
+BA3C-CPU
+This is the repository containing the source code for our paper concerning playing Atari Games on CPU.
 
+* https://github.com/awjuliani/dfp *****  
+This repo hosts the code associated with my O'Reilly article, "Reinforcement Learning for Various, Complex Goals, Using TensorFlow," published on DATE.
+This the code in this repository contains implementations of Deep Q-Network, and Learning to Act by Predicting the Future.
 
+* https://github.com/dgriff777/rl_a3c_pytorch ****  
+This repository includes my implementation with reinforcement learning using Asynchronous Advantage Actor-Critic (A3C) in Pytorch
 
+* https://github.com/village-people/flying-pig ****  
+Solving The Malmo Collaborative AI Challenge 
+Early experimentation involved training feed-forward parametrized estimators with DQN, Double DQN (in order to compensate for over-estimation effects early in the training) and policy-gradient based methods. 
+https://github.com/philipjhj/TDP-MSRC-AI-Challenge
 
+* https://github.com/importsysu/malmochallenge *****  
+Hierarchical Double Deep Q-Network (HiDDeN) for The Pig Chase Challenge task
 
+* https://github.com/Kaixhin/ACER *****  
+Actor-critic with experience replay
+ 
+* https://github.com/aleju/self-driving-truck ***  
+Self-Driving Truck in Euro Truck Simulator 2, trained via Reinforcement Learning
+
+* https://github.com/kimhc6028/pytorch-noreward-rl *****  
+pytorch implementation of Curiosity-driven Exploration by Self-supervised Prediction
 
 
 
