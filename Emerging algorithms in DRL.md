@@ -107,6 +107,92 @@ Self-Driving Truck in Euro Truck Simulator 2, trained via Reinforcement Learning
 * https://github.com/kimhc6028/pytorch-noreward-rl *****  
 pytorch implementation of Curiosity-driven Exploration by Self-supervised Prediction
 
+* https://github.com/dmakian/feudal_networks ****  
+An implementation of FeUdal Networks for Hierarchical Reinforcement Learning
+
+* https://github.com/Kaixhin/malmo-challenge ****  
+Malmo Collaborative AI Challenge - Team Pig Catcher
+model-free RL, and simply aim to maximise the reward of our agent. As a baseline we take a DRL algorithm - ACER
+
+* https://github.com/Alfredvc/paac  *****  
+Open source implementation of the PAAC algorithm presented in Efficient Parallel Methods for Deep Reinforcement Learning
+
+* https://github.com/facebookresearch/CommNet ****  
+Neural network model, suitable for multi-agent learning.
+
+* https://github.com/pathak22/noreward-rl *****  
+ TensorFlow code for Curiosity-driven Exploration for Deep Reinforcement Learning
+ 
+* https://github.com/openai/roboschool  ****  
+Open-source software for robot simulation, integrated with OpenAI Gym.
+
+* https://github.com/hhexiy/opponent ****  
+Implementation for ICML 16 paper "Deep reinforcement learning with opponent modeling"
+
+* https://github.com/LantaoYu/MARL-Papers *****  
+Paper list of multi-agent reinforcement learning (MARL)
+
+* https://github.com/deepmind/dnc ****  
+A TensorFlow implementation of the Differentiable Neural Computer.
+
+* https://github.com/rlcode/reinforcement-learning *****  
+Minimal and Clean Reinforcement Learning Examples
+
+* https://github.com/IntelVCL/DirectFuturePrediction ****  
+Code for the paper "Learning to Act by Predicting the Future", Alexey Dosovitskiy and Vladlen Koltun, ICLR 2017
+
+* https://github.com/ShibiHe/Q-Optimality-Tightening ****  
+This is my implementation to paper Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening.
+
+* https://github.com/ariseff/overcoming-catastrophic ****  
+Implementation of "Overcoming catastrophic forgetting in neural networks" in Tensorflow
+
+* https://github.com/transedward/pytorch-dqn ****  
+Deep Q-Learning Network in pytorch
+
+* https://github.com/pkumusic/O-DRL ****  
+Object Sensitive Deep Reinforcement Learning. Combining Object Features with Deep Reinforcement Learning methods.
+
+* https://github.com/lifrordi/DeepStack-Leduc ***  
+Example implementation of the DeepStack algorithm for no-limit Leduc poker 
+
+* https://github.com/rarilurelo/pcl_keras *****  
+This is Keras implementation of PCL as described in Bridging the Gap Between Value and Policy Based Reinforcement Learning.
+
+* https://github.com/papoudakis/Asynchronous_RL ****  
+This is an implementation of asynchronous reinforcement learning algorithms. This implementation is for gym's doom and atari environment.
+
+* https://github.com/pavitrakumar78/Playing-custom-games-using-Deep-Learning ****  
+Implementation of Google's paper on playing atari games using deep learning in python.
+
+* https://github.com/AaronYALai/Reinforcement_Learning_Project  ******
+(Keras) Use deep Q-learning to build two Gomoku (Five-in-a-Row) agents playing against each other.
+
+* https://github.com/jingweiz/pytorch-rl *****  
+Deep Reinforcement Learning with pytorch & visdom
+
+* https://github.com/samindaa/RLLib ****  
+RLLib is a lightweight C++ template library that implements incremental, standard, and gradient temporal-difference learning algorithms in Reinforcement Learning.
+
+* https://github.com/Kaixhin/Easy21 ***  
+Assignment from David Silver's Reinforcement Learning course. Coded for clarity, not efficiency.
+Requires Torch7 with the Moses package.
+
+* https://github.com/kengz/openai_lab *****  
+An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.
+
+* https://github.com/rllabmcgill/rlcourse-february-10-Breakend *****  
+rlcourse-february-10-Breakend created by GitHub Classroom
+
+* https://github.com/rlpy/rlpy ***  
+RLPy is a framework to conduct sequential decision making experiments. The current focus of this project lies on value-function-based reinforcement learning. 
+
+* https://github.com/andrewliao11/pytorch-a3c-mujoco ****  
+Implement A3C for Mujoco gym envs
+
+* https://github.com/NoobFang/multi-process-UNREAL ****  
+Multi-processing implementation of "Reinforcement Learning with Unsupervised Auxiliary Tasks"(UNREAL) with tensorflow
+
 
 
 
