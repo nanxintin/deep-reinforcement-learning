@@ -193,6 +193,84 @@ Implement A3C for Mujoco gym envs
 * https://github.com/NoobFang/multi-process-UNREAL ****  
 Multi-processing implementation of "Reinforcement Learning with Unsupervised Auxiliary Tasks"(UNREAL) with tensorflow
 
+* https://github.com/AI-ON/Multitask-and-Transfer-Learning ****  
+Benchmark and build RL architectures that can do multitask and transfer learning.
+
+* https://github.com/ritchieng/the-incredible-pytorch ****  
+The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+
+* https://github.com/atgambardella/pytorch-es ****  
+Evolution Strategies in PyTorch
+
+* https://github.com/aravindr93/robustRL ***  
+Robust policy search algorithms which train on model ensembles
+
+* https://github.com/tanmayshankar/RCNN_MDP ***  
+This repository is code connected to the paper - T. Shankar, S. K. Dwivedy, P. Guha, Reinforcement Learning via Recurrent Convolutional Neural Networks, published at ICPR 2016.
+
+* https://github.com/carpedm20/text-based-game-rl-tensorflow *****  
+Tensorflow implementation of Language Understanding for Text-based Games using Deep Reinforcement Learning. 
+
+* https://github.com/openai/evolution-strategies-starter ****  
+This is a distributed implementation of the algorithm described in Evolution Strategies as a Scalable Alternative to Reinforcement Learning
+
+* https://github.com/dillonalaird/deep-rl-tensorflow *****  
+TensorFlow implementation of Deep Reinforcement Learning papers Deep Learning papers
+
+* https://github.com/florensacc/snn4hrl ***  
+Stochastic Neural Networks for Hierarchical Reinforcement Learning
+
+* https://github.com/pkumusic/E-DRL *****  
+Exploration Strategies for Deep Reinforcement Learning 
+
+* https://github.com/arnomoonens/DeepRL *****  
+Combining deep learning and reinforcement learning.
+
+* https://github.com/evancasey/demeter ****  
+A library for deep reinforcement learning. Runs on tensorflow.
+
+* https://github.com/evancasey/demeter ****  
+A library for deep reinforcement learning. Runs on tensorflow.
+
+* https://github.com/lancelee82/rockrose *****  
+Deep Reinforcement Learning Learn. DQN, A3C, UNREAL
+
+* https://github.com/joschu/modular_rl ****  
+This repository implements several algorithms:
+Trust Region Policy Optimization, Proximal Policy Optimization, Cross Entropy Method
+
+* https://github.com/Bifrost-Research/RL-Universe ****  
+Implementation of a Reinforcement Learning algorithm for the game Slither.io using the Universe framework from openAI to emulate the game.
+
+* https://github.com/ikostrikov/pytorch-naf *****  
+Reimplementation of Continuous Deep Q-Learning with Model-based Acceleration (Normalized Advantage Function).
+
+* https://github.com/djl11/UNREAL *****  
+Original from https://github.com/miyosuda/unreal
+
+* https://github.com/yukezhu/tensorflow-reinforce *****  
+Implementations of Reinforcement Learning Models in Tensorflow
+
+* https://github.com/sherjilozair/dqn ***  
+This is a very basic DQN implementation, which uses OpenAI's gym environment and Keras/Theano neural networks.
+
+* https://github.com/tokb23/dqn ****  
+DQN implementation in Keras + TensorFlow + OpenAI Gym
+
+* https://github.com/Islandman93/reinforcepy ***  
+Collection of reinforcement learners implemented in python. Mainly including DQN and its variants
+
+* https://github.com/eparisotto/ActorMimic *****  
+Train an RL agent to play multiple Atari games at once
+
+* https://github.com/BinRoot/TensorFlow-Book ****  
+Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
+
+* https://github.com/yandexdataschool/AgentNet ****  
+A lightweight library to build and train deep reinforcement learning and custom recurrent networks using Theano+Lasagne
+
+* https://github.com/vmayoral/basic_reinforcement_learning ****  
+An introduction series to Reinforcement Learning (RL) with comprehensive step-by-step tutorials.
 
 
 
@@ -201,6 +279,77 @@ Multi-processing implementation of "Reinforcement Learning with Unsupervised Aux
 
 
 
+
+
+
+
+
+
+
+
+
+
+# A3C
+
+* https://github.com/gliese581gg/A3C_tensorflow **** 
+Tensorflow implementation of 'Asynchronous Methods for Deep Reinforcement Learning'
+
+* https://github.com/gliese581gg/batch-A3C_tensorflow ****  
+Modified tensorflow implementation of 'Asynchronous Methods for Deep Reinforcement Learning'
+
+* https://github.com/ssamot/batchA3C ****  
+An implementation of A3C in batch mode
+
+* https://github.com/carpedm20/a3c-tensorflow ****  
+a3c-tensorflow
+
+* https://github.com/yinchuandong/A3C-keras *****  
+A3C-keras
+
+* https://github.com/Itsukara/async_deep_reinforce *****  
+Asynchronous deep reinforcement learning + Pseudo-count based reward + On-highscore-learning
+
+* https://github.com/steveKapturowski/async-deep-rl *****  
+A Tensorflow based implementation of "Asynchronous Methods for Deep Reinforcement Learning"
+
+* https://github.com/rarilurelo/pytorch_a3c *****  
+This is PyTorch implementation of A3C as described in Asynchronous Methods for Deep Reinforcement Learning.
+
+* https://github.com/pfrendl/a3c ****  
+Minimal Asynchronous Advantage Actor Critic (A3C) implementation in PyTorch.
+
+
+
+
+
+
+
+
+
+
+
+# PNN & PathNet
+
+* https://github.com/jaesik817/pathnet *****  
+Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks
+
+* https://github.com/synpon/prog_nn *****  
+A Quick and Dirty Progressive Neural Network written in TensorFlow.
+
+* https://github.com/seann999/progressive_a3c *****  
+Code used for an implementation of Progressive Neural Networks
+
+
+# Model-Free Episodic Control
+
+* https://github.com/miyosuda/episodic_control 
+Replicating DeepMind's paper "Model-Free Episodic Control" with VAE on DeepMind Lab environment.
+
+* https://github.com/sudeepraja/Model-Free-Episodic-Control   
+Implementation of the Model Free Episodic Control paper by Deep Mind 
+
+* https://github.com/ShibiHe/Model-Free-Episodic-Control   
+This is the implementation of DQN and Model Free Episodic Control
 
 
 
