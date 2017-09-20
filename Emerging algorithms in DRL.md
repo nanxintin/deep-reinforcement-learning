@@ -272,20 +272,24 @@ A lightweight library to build and train deep reinforcement learning and custom 
 * https://github.com/vmayoral/basic_reinforcement_learning ****  
 An introduction series to Reinforcement Learning (RL) with comprehensive step-by-step tutorials.
 
+* https://github.com/cuayahuitl/SimpleDS ****  
+A Simple Deep Reinforcement Learning Dialogue System
+
+* https://github.com/shaneshixiang/rllabplusplus ****  
+rllab++ is a framework for developing and evaluating reinforcement learning algorithms, built on rllab. 
+
+* https://github.com/mpatacchiola/dissecting-reinforcement-learning ***  
+Python code, PDFs and resources for the series of posts on Reinforcement Learning which I published on my personal blog https://mpatacchiola.github.io/blog/
 
 
 
+# meta-learning 
 
+* https://github.com/deepmind/learning-to-learn *****  
+Learning to Learn in TensorFlow
 
-
-
-
-
-
-
-
-
-
+* https://github.com/awjuliani/Meta-RL ****  
+Implementation of Meta-RL A3C algorithm
 
 
 
@@ -318,12 +322,35 @@ This is PyTorch implementation of A3C as described in Asynchronous Methods for D
 * https://github.com/pfrendl/a3c ****  
 Minimal Asynchronous Advantage Actor Critic (A3C) implementation in PyTorch.
 
+* https://github.com/Grzego/async-rl ****  
+Variation of "Asynchronous Methods for Deep Reinforcement Learning" with multiple processes generating experience for agent (Keras + Theano + OpenAI Gym)[1-step Q-learning, n-step Q-learning, A3C]
+
+* https://github.com/ebonyclock/deep_rl_vizdoom ****  
+Deep reinforcement learning in ViZDoom (using Tensorflow)
+
+* https://github.com/ikostrikov/pytorch-a3c *****  
+PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".
+
+* https://github.com/iankm/FlappyDQL-MultiAgent ****  
+deep_q_flappy_mulitplayer
+
+* https://github.com/akolishchak/doom-net-pytorch ****  
+Reinforcement learning models in ViZDoom environment
+
+* https://github.com/NVlabs/GA3C ****  
+Hybrid CPU/GPU implementation of the A3C algorithm for deep reinforcement learning.
 
 
 
 
 
+# Intrinsically Motivated Reinforcement Learning [Martin?]:  
 
+Intrinsically Motivated Reinforcement Learning  
+Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning  
+Bayesian Surprise Attracts Human Attention  
+Variational Information Maximizing Exploration  
+Unifying Count-Based Exploration and Intrinsic Motivation
 
 
 
@@ -352,6 +379,14 @@ Implementation of the Model Free Episodic Control paper by Deep Mind
 This is the implementation of DQN and Model Free Episodic Control
 
 
+
+# Market Trade  
+
+* https://github.com/deependersingla/deep_trader   
+This project uses reinforcement learning on stock market and agent tries to learn trading. The goal is to check if the agent can learn to read tape. The project is dedicated to hero in life great Jesse Livermore.
+
+* https://github.com/kh-kim/stock_market_reinforcement_learning ***  
+This project provides a stock market environment using OpenGym with Deep Q-learning and Policy Gradient.
 
 
 
